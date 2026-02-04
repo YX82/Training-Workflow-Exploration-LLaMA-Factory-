@@ -59,3 +59,19 @@ pip install -e ".[torch,metrics]"
 After running `llamafactory-cli webui`, the training interface can be accessed in the browser.
 
 ![WebUI Home](images/webui_home.png)
+
+### Step 2: Model Selection
+
+Selecting the base model (e.g., Qwen-VL) inside the WebUI.
+
+### Step 3: Dataset Configuration
+
+Loading instruction-style dataset for training.
+
+![Dataset Config](images/dataset_config.png)
+
+### Step 4: Training Parameters
+
+Setting hyperparameters such as learning rate, epochs, and batch size.
+
+![Training Config](images/training_config.png)
