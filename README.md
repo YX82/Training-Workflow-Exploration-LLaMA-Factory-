@@ -42,7 +42,10 @@ The model takes an **image + text prompt** and generates a natural language resp
 
 ### Inference Screenshot
 
-![Inference Result] (<img width="1534" height="572" alt="image" src="https://github.com/user-attachments/assets/83818e08-d68b-48bc-b262-36e1294436d0" />)
+![Inference Result] 
+before:
+<img width="1534" height="572" alt="image" src="https://github.com/user-attachments/assets/83818e08-d68b-48bc-b262-36e1294436d0" />
+after:
 <img width="1338" height="898" alt="image" src="https://github.com/user-attachments/assets/a84527bf-4766-4876-a494-ef7e8188d74f" />
 
 
